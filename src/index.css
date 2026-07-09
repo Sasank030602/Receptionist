@@ -1,0 +1,19 @@
+body,
+html,
+#root {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+body {
+    font-family: "Google Sans", sans-serif !important;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.rounded-16 {
+    border-radius: 16px !important;
+}
