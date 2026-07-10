@@ -47,9 +47,9 @@ export const PATIENTS = [
 ];
 
 export const APPOINTMENTS = [
-    { id: 1, token: "#3", name: "John Anderson", pid: "PAT001", doctor: "Dr. James Wilson", time: "09:00", type: "Follow-Up", status: "Waiting" },
-    { id: 2, token: "#1", name: "Sarah Williams", pid: "PAT002", doctor: "Dr. Lisa Brown", time: "10:30", type: "Consultation", status: "Scheduled" },
-    { id: 3, token: "#5", name: "Michael Chen", pid: "PAT003", doctor: "Dr. James Wilson", time: "11:00", type: "Consultation", status: "Scheduled" },
-    { id: 4, token: "#", name: "Emily Davis", pid: "PAT004", doctor: "Dr. Amanda Rodriguez", time: "14:00", type: "Follow-Up", status: "Scheduled" },
-    { id: 5, token: "#", name: "Robert Taylor", pid: "PAT005", doctor: "Dr. Emily Chen", time: "15:30", type: "Consultation", status: "Scheduled" }
+    { id: 1, token: "# 3", name: "John Anderson", pid: "PAT001", doctor: "Dr. James Wilson", time: "09:00", type: "Follow-Up", status: "Waiting" },
+    { id: 2, token: "# 1", name: "Sarah Williams", pid: "PAT002", doctor: "Dr. Lisa Brown", time: "10:30", type: "Consultation", status: "Scheduled" },
+    { id: 3, token: "# 5", name: "Michael Chen", pid: "PAT003", doctor: "Dr. James Wilson", time: "11:00", type: "Consultation", status: "Scheduled" },
+    { id: 4, token: "# -", name: "Emily Davis", pid: "PAT004", doctor: "Dr. Amanda Rodriguez", time: "14:00", type: "Follow-Up", status: "Scheduled" },
+    { id: 5, token: "# -", name: "Robert Taylor", pid: "PAT005", doctor: "Dr. Emily Chen", time: "15:30", type: "Consultation", status: "Scheduled" }
 ];
